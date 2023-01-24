@@ -1,4 +1,17 @@
-### Hi there 👋
+<h1 align="center">👋 Hello! I'm muitsfriday</h2>
+
+
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/muitsfriday)
+
+I'm the software artisan likes to try and play things around. Also have some knowledge and interest in mathematics.
+
+## Social Media
+
+- Personal Site: [https://muitsfriday.dev](https://muitsfriday.dev)
+- Medium: [https://medium.com/@muitsfriday](https://medium.com/@muitsfriday)
+
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muitsfriday&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
