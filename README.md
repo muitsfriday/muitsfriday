@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Muitsfriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=muitsfriday)](https://github.com/muitsfriday/github-readme-stats)
+[![Muitsfriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=muitsfriday&show_icons=true&theme=tokyonight)](https://github.com/muitsfriday/github-readme-stats)
 
 <!--
 **muitsfriday/muitsfriday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
