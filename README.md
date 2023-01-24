@@ -11,6 +11,13 @@ I'm the software artisan likes to try and play things around. Also have some kno
 - Medium: [https://medium.com/@muitsfriday](https://medium.com/@muitsfriday)
 
 
+## My current interest
+
+||Status|
+|---|---|
+|Game Development| Ongoing |
+|Rust Lang| Ongoing |
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muitsfriday&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
